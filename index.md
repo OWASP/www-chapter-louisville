@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP louisville
+title: OWASP Louisville
 tags: example-tag
 level: 4
 
