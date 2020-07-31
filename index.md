@@ -4,6 +4,9 @@ layout: col-sidebar
 title: OWASP Louisville
 tags: example-tag
 level: 4
+meetup-group: meetup-group-iOVgsIcE
+country: USA
+postal-code: 40201
 
 ---
 
